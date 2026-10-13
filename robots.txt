@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+# AI Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://fincaloscastanos.com/sitemap.xml
+Llms: https://fincaloscastanos.com/llms.txt
+Llms-full: https://fincaloscastanos.com/llms-full.txt
